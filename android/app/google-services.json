@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1001143847333",
+    "firebase_url": "https://maple-foudation-firebase-default-rtdb.firebaseio.com",
+    "project_id": "maple-foudation-firebase",
+    "storage_bucket": "maple-foudation-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001143847333:android:790fe989b799634335404c",
+        "android_client_info": {
+          "package_name": "com.example.maple_rds_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbPbO7XpGoTxr_ioTnCrgxaab1DrUtLHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
